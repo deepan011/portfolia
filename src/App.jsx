@@ -6,7 +6,7 @@ import Home from './pages/Home'
 import AboutPage from './pages/AboutPage'
 import SkillsPage from './pages/SkillsPage'
 import ExperiencePage from './pages/ExperiencePage'
-import ProjectsPage from './pages/ProjectsPage'
+import ProjectsPage from './pages/Projectspage'
 import ContactPage from './pages/ContactPage'
 
 import './App.css'
